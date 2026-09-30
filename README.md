@@ -1,0 +1,1 @@
+An innovative heritage preservation platform designed to protect cultural landmarks through technology. it combines digital innovation, smart monitoring, and sustainable tourism to help safeguard historical sites, promote cultural awareness, and preserve our heritage for future generations. Developed as part of the Seva Sankalp Abhiyaan Hackathon
